@@ -29,7 +29,9 @@ chmod +x build.sh
 ## Sample Output
 
 Building Project...
+
 Build Successful
+
 Running Application...
 
 ## Skills Demonstrated
