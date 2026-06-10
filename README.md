@@ -22,6 +22,8 @@ A Bash-based build automation tool that compiles C projects, manages build artif
 ## How to Run
 
 chmod +x build.sh
+
+
 ./build.sh
 
 ## Sample Output
